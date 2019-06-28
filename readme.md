@@ -42,5 +42,5 @@ AV3-fetch内部使用异步调用fetch方法，对数据进行读取，可将数
 
 # 深度阅读  
 Promise学习资料：https://segmentfault.com/a/1190000007032448  
-fetch学习资料：https://www.cnblogs.com/syhx/p/9934123.html
+fetch学习资料：https://www.cnblogs.com/syhx/p/9934123.html  
 模块：https://www.cnblogs.com/libin-1/p/7127481.html
