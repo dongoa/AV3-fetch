@@ -39,3 +39,8 @@ AV3-fetch内部使用异步调用fetch方法，对数据进行读取，可将数
 高层接口：AV3.dsv()、AV3.tsv()、AV3.csv()  
 
 其他：我把可以测试的代码在test.js中进行了测试，同样也展示了如何使用。d3中的接口非常细致，一些非常底层的接口是几乎用不到的，而高层接口才是简单好用的，我把他们进行了分类。
+
+# 深度阅读  
+Promise学习资料：https://segmentfault.com/a/1190000007032448  
+fetch学习资料：https://www.cnblogs.com/syhx/p/9934123.html
+模块：https://www.cnblogs.com/libin-1/p/7127481.html
